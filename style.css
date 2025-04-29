@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(223, 206, 227);
+    background-color: rgb(205, 219, 208);
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     flex-direction: column;
@@ -25,11 +25,11 @@ body {
   }
   
   #controls {
-    background-color: rgb(235, 240, 219);
+    background-color: rgb(198, 232, 213);
   }
   
   #game-container {
-    background-color: rgb(244, 248, 228);
+    background-color: rgb(241, 240, 235);
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
